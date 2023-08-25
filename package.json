@@ -1,0 +1,19 @@
+{
+  "name": "node-server",
+  "version": "1.0.0",
+  "description": "node server example unit 5 dev mountain",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tanner-Davison/nodeJS-server-myExample.git"
+  },
+  "author": "Tanner Davison",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tanner-Davison/nodeJS-server-myExample/issues"
+  },
+  "homepage": "https://github.com/Tanner-Davison/nodeJS-server-myExample#readme"
+}
